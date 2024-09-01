@@ -1,1 +1,1 @@
-# weather-app
+Develop a dynamic weather app using HTML, CSS, and JavaScript. This project will guide you in fetching real-time weather data from APIs, displaying current conditions, forecasts, and more. Perfect for honing your web development skills, the app provides an interactive, responsive user experience with essential weather details at a glance.
